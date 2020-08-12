@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Abrar Dhattiwala</title>
+    <link>https://Abrardz.github.io/Abrar_dz/</link>
+    <description>Recent content in Data Science Portfolio on Abrar Dhattiwala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://Abrardz.github.io/Abrar_dz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Titanic-Survived-Prediction</title>
+      <link>https://Abrardz.github.io/Abrar_dz/post/chapter-1/</link>
+      <pubDate>Sun, 09 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Abrardz.github.io/Abrar_dz/post/chapter-1/</guid>
+      <description>Data Description:
+This dataset have details of passengers traveling in Titanic as a data points, and for, we have 25 columns, each column represents a different aspect or measure.
+Project Goal:
+The goal of the project is to understand this dataset, get some insights from it, and finally to train a model that can predict which passengers survived the Titanic shipwreck.
+Overview:
+Understand the shape of the data Data Cleaning Basic Model Building Results</description>
+    </item>
+    
+    <item>
+      <title>Project 2: House Prices</title>
+      <link>https://Abrardz.github.io/Abrar_dz/post/chapter-2/</link>
+      <pubDate>Sat, 08 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Abrardz.github.io/Abrar_dz/post/chapter-2/</guid>
+      <description>Table of Contents
+ Importing the dataset Analysing the dataset by viewing the top rows of dataset Exploratory Data Analysis   Identifying and Visualizing the percentage of missing values, location of missing values in the dataset, and correlation between the missing values in the dataset. Cheking for duplicate rows.  Feature Engineering   Handling the missing values of numerical and categorical features using median and mode and applying one hot encoding.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Abrardz.github.io/Abrar_dz/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Abrardz.github.io/Abrar_dz/contact/</guid>
+      <description>Follow me on these social media platforms. Platform	URL
+LinkedIn: | https://www.linkedin.com/in/abrar-dhattiwala-98a8031b4
+GitHub: | https://github.com/Abrardz</description>
+    </item>
+    
+  </channel>
+</rss>
